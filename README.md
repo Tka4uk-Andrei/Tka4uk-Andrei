@@ -5,9 +5,10 @@ I'm currently try to organize my repo to make it more understandable for viewers
 Next info will be in Russian 
 
 Данный репозиторий на текущий момент содержит проекты:
- - Прикладные
- - Учебные (лабораторные, курсовые и прочее, что связано с учёбой)
+ - [Прикладные](1)
+ - [Учебные](2) (лабораторные, курсовые и прочее, что связано с учёбой)
 
+[1]:
 К первой группе относяться следующие репозитории
 - [Vk_FIIT_Bot](https://github.com/Tka4uk-Andrei/VK_FIIT_Bot)
 - [QRA](https://github.com/Tka4uk-Andrei/QRA)
@@ -16,6 +17,7 @@ Next info will be in Russian
 - [Forked Bingo]() (чужой)
 - ~~Blue~~
 
+[2]:
 Ко второй группе относятся
 - [Алгоритм A*+BDD в мире Вампуса](https://github.com/Tka4uk-Andrei/bddWampus)
 - Лабораторные по основам с++
