@@ -20,8 +20,8 @@ Next info will be in Russian
 - [Алгоритм A*+BDD в мире Вампуса](https://github.com/Tka4uk-Andrei/bddWampus)
 - Лабораторные по основам C++
   - [Лабораторная 1](https://github.com/Tka4uk-Andrei/HomeTask6-Lab1-)
-  - [Лабораторная 2] TODO
-  - [Лабораторная 3] TODO
+  - [Лабораторная 2](https://github.com/Tka4uk-Andrei/HomeTask8-Lab2-)
+  - [Лабораторная 3](https://github.com/Tka4uk-Andrei/HomeTask9-Lab3-)
 - Работы по алгоритмам и анализу сложности
   - **TODO**
 - Работы по операционным системам
